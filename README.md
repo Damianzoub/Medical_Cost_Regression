@@ -24,4 +24,4 @@ The dataset includes data on medical expenses incurred by individuals, alongside
 
 6. **region**: Geographical region of residence (categorical: northwest, northeast, southwest, southeast)
 
-7. **charges**: Medical costs billed (numerical
+7. **charges**: Medical costs billed (numerical)
