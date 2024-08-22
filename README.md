@@ -7,8 +7,8 @@ The Medical Cost Personal Dataset contains information about individuals' medica
 The dataset includes data on medical expenses incurred by individuals, alongside various personal attributes. It can be used to build models that predict medical costs based on these attributes.
 
 # **File Format**
-File Name: insurance.csv
-File Type: CSV (Comma-Separated Values)
+- File Name: insurance.csv
+- File Type: CSV (Comma-Separated Values)
 
 
 ## **Features**
